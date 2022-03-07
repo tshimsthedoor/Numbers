@@ -1,0 +1,16 @@
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csprojAssemblyReference.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\TresorAutoLearningGoal2022\CSharpBook\Chapter02\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache
